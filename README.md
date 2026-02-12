@@ -6,4 +6,4 @@ This is a project for displaying the tax amount for income of all individual wor
 
 * **HTML** - Structure of the Website 
 * **CSS** - Style and background of website 
-* **JAVASCRIPT** - Conditions of Tax Calculation 
+* **JAVASCRIPT** - Conditions of Tax Calculation
