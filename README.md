@@ -10,7 +10,7 @@ This is a project for displaying the tax amount for income of all individual wor
 
 ## Reference Datas
 
-This project encompasses the official tax calculation methodology of INCOME TAX INDIA OFFICIAL controlled by GOVERNMENT OF INDIA . One thing is for Rs.5000001 and above I did not added the Surcharge of Tax Calculation .
+This project encompasses the official tax calculation methodology of INCOME TAX INDIA OFFICIAL controlled by GOVERNMENT OF INDIA .
 
 ## Core Concepts
 
