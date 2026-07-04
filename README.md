@@ -22,10 +22,10 @@ This project contains the concept of ELSE-IF LADDER in JAVASCRIPT file and basic
 
 ## I learned from this project
 
-* **Basic file connectivity between HTML , CSS , JAVASCRIPT .**
-* **Various Conditions for Tax Calculation .**
-* **How to handle the Unnecessary Errors .**
-* **Basic UI Interaction and Designing .**
+* Basic file connectivity between HTML , CSS , JAVASCRIPT .
+* Various Conditions for Tax Calculation .
+* How to handle the Unnecessary Errors .
+* Basic UI Interaction and Designing .
 
 ## Comments
 
