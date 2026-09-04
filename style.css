@@ -1,14 +1,76 @@
-body{
- background-color: pink;
-}  
-.center-box{
-    width: 300px;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: pink;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
     padding: 20px;
+}
+
+.center-box {
+    width: 100%;
+    max-width: 350px; /* பெரிய திரைகளில் 350px தாண்டாது */
+    padding: 25px;
     background-color: white;  
     text-align: center;
     box-shadow: 0 0 10px gray;
+    border-radius: 10px;
 }
-button{
-    margin: 10px;
-    padding: 8px 15px;
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+label {
+    font-size: 14px;
+    font-weight: bold;
+    color: #555;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+#result {
+    margin-top: 15px;
+    font-weight: bold;
+    color: #222;
 }
